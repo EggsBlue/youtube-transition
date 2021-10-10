@@ -2,4 +2,4 @@
 使用SwiftUI模仿Youtube的播放动画
 
 # 演示
-![demo](image/youtube_demo.gif)
+<img src="image/youtube_demo.gif" width="300px" height:="600px">
