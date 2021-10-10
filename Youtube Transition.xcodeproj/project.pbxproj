@@ -8,10 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		21245DCA27117E3100B51E02 /* VideoPlayerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21245DC927117E3100B51E02 /* VideoPlayerViewModel.swift */; };
-		213FAA2D27129155001303C5 /* taylor1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 213FAA2C27129155001303C5 /* taylor1.mp4 */; };
-		213FAA2F27129274001303C5 /* 【Taylor Swift】[4K修复] Red (CMA Awards 2013) - 001 - [4K修复] Red (CMA Awards 2013).mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 213FAA2E27129274001303C5 /* 【Taylor Swift】[4K修复] Red (CMA Awards 2013) - 001 - [4K修复] Red (CMA Awards 2013).mp4 */; };
-		213FAA312712929A001303C5 /* 美哭了！！万人大合唱！Taylor Swift世界巡演《Love Story》！真正的视觉与听觉享受，超级震撼的舞台效果！据最神奇的视频.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 213FAA302712929A001303C5 /* 美哭了！！万人大合唱！Taylor Swift世界巡演《Love Story》！真正的视觉与听觉享受，超级震撼的舞台效果！据最神奇的视频.mp4 */; };
-		213FAA33271292E2001303C5 /* 懂王-川宝支持者精彩瞬间，从来没见拉稀乔有这种待遇。 - 001 - 懂王-川宝支持者精彩瞬间，从来没见拉稀乔有这种待遇.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 213FAA32271292E2001303C5 /* 懂王-川宝支持者精彩瞬间，从来没见拉稀乔有这种待遇。 - 001 - 懂王-川宝支持者精彩瞬间，从来没见拉稀乔有这种待遇.mp4 */; };
 		21EC4C9227106F8800C25FF9 /* Youtube_TransitionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EC4C9127106F8800C25FF9 /* Youtube_TransitionApp.swift */; };
 		21EC4C9427106F8800C25FF9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EC4C9327106F8800C25FF9 /* ContentView.swift */; };
 		21EC4C9627106F8900C25FF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21EC4C9527106F8900C25FF9 /* Assets.xcassets */; };
@@ -46,10 +42,6 @@
 
 /* Begin PBXFileReference section */
 		21245DC927117E3100B51E02 /* VideoPlayerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerViewModel.swift; sourceTree = "<group>"; };
-		213FAA2C27129155001303C5 /* taylor1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = taylor1.mp4; sourceTree = "<group>"; };
-		213FAA2E27129274001303C5 /* 【Taylor Swift】[4K修复] Red (CMA Awards 2013) - 001 - [4K修复] Red (CMA Awards 2013).mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "【Taylor Swift】[4K修复] Red (CMA Awards 2013) - 001 - [4K修复] Red (CMA Awards 2013).mp4"; sourceTree = "<group>"; };
-		213FAA302712929A001303C5 /* 美哭了！！万人大合唱！Taylor Swift世界巡演《Love Story》！真正的视觉与听觉享受，超级震撼的舞台效果！据最神奇的视频.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "美哭了！！万人大合唱！Taylor Swift世界巡演《Love Story》！真正的视觉与听觉享受，超级震撼的舞台效果！据最神奇的视频.mp4"; sourceTree = "<group>"; };
-		213FAA32271292E2001303C5 /* 懂王-川宝支持者精彩瞬间，从来没见拉稀乔有这种待遇。 - 001 - 懂王-川宝支持者精彩瞬间，从来没见拉稀乔有这种待遇.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "懂王-川宝支持者精彩瞬间，从来没见拉稀乔有这种待遇。 - 001 - 懂王-川宝支持者精彩瞬间，从来没见拉稀乔有这种待遇.mp4"; sourceTree = "<group>"; };
 		21EC4C8E27106F8800C25FF9 /* Youtube Transition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Youtube Transition.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		21EC4C9127106F8800C25FF9 /* Youtube_TransitionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Youtube_TransitionApp.swift; sourceTree = "<group>"; };
 		21EC4C9327106F8800C25FF9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -183,10 +175,6 @@
 		21EC4CBE27106FBB00C25FF9 /* Files */ = {
 			isa = PBXGroup;
 			children = (
-				213FAA302712929A001303C5 /* 美哭了！！万人大合唱！Taylor Swift世界巡演《Love Story》！真正的视觉与听觉享受，超级震撼的舞台效果！据最神奇的视频.mp4 */,
-				213FAA2E27129274001303C5 /* 【Taylor Swift】[4K修复] Red (CMA Awards 2013) - 001 - [4K修复] Red (CMA Awards 2013).mp4 */,
-				213FAA2C27129155001303C5 /* taylor1.mp4 */,
-				213FAA32271292E2001303C5 /* 懂王-川宝支持者精彩瞬间，从来没见拉稀乔有这种待遇。 - 001 - 懂王-川宝支持者精彩瞬间，从来没见拉稀乔有这种待遇.mp4 */,
 				21EC4CC32710713600C25FF9 /* video.mp4 */,
 			);
 			path = Files;
@@ -296,11 +284,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				213FAA312712929A001303C5 /* 美哭了！！万人大合唱！Taylor Swift世界巡演《Love Story》！真正的视觉与听觉享受，超级震撼的舞台效果！据最神奇的视频.mp4 in Resources */,
 				21EC4C9927106F8900C25FF9 /* Preview Assets.xcassets in Resources */,
-				213FAA33271292E2001303C5 /* 懂王-川宝支持者精彩瞬间，从来没见拉稀乔有这种待遇。 - 001 - 懂王-川宝支持者精彩瞬间，从来没见拉稀乔有这种待遇.mp4 in Resources */,
-				213FAA2D27129155001303C5 /* taylor1.mp4 in Resources */,
-				213FAA2F27129274001303C5 /* 【Taylor Swift】[4K修复] Red (CMA Awards 2013) - 001 - [4K修复] Red (CMA Awards 2013).mp4 in Resources */,
 				21EC4CCA2710769B00C25FF9 /* video.mp4 in Resources */,
 				21EC4C9627106F8900C25FF9 /* Assets.xcassets in Resources */,
 			);
